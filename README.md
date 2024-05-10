@@ -1,2 +1,2 @@
 # TMA
-TMAs playground
+Telegram Mini Apps playground
